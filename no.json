@@ -1,8 +1,8 @@
 {
-    "Events": "Eventer",
-    "Active Events": "Aktive eventer",
-    "Upcoming Events": "Kommende eventer",
-    "Past Events": "Tidligere eventer",
+    "Events": "Events",
+    "Active Events": "Aktive events",
+    "Upcoming Events": "Kommende events",
+    "Past Events": "Tidligere events",
     "Event Estimates": "Event-tider er basert på Niantics annonseringer, eller hvordan tidligere eventer har vært.",
     "Nest Migration": "Nest-skifte",
     "Community Day": "Community Day",
